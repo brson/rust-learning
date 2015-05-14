@@ -43,6 +43,7 @@ The main documentation is always the best begining, so if you haven't read yet, 
 
 ## Best Practices/Style Guides
 * [official] [Rust Guidelines](https://github.com/rust-lang/rust-guidelines)
+* [Error Handling in Rust](http://blog.burntsushi.net/rust-error-handling/) - [Andrew Gallant][]
 
 ## Code Organization
 None
