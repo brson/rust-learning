@@ -71,7 +71,8 @@ You can watch Rust's meetups at [air.mozilla](https://air.mozilla.org/channels/r
 * [ProjectEulerRust](https://github.com/gifnksm/ProjectEulerRust) - gifnksm
 * [ArcadeRS](http://jadpole.github.io/arcaders/arcaders-1-0/) - Jessy Pelletier
 * [Rust in Detail: Writing Scalable Chat Service from Scratch](https://nbaksalyar.github.io/2015/07/10/writing-chat-in-rust.html) - Nikita Baksalyar
-* [rustlings: small rust exercises](https://github.com/carols10cents/rustlings) - Carol Nichols
+* [rustlings: small rust exercises](https://github.com/carols10cents/rustlings) - Carol Nichosl
+* [Learning Rust With Entirely Too Many Linked Lists](http://cglab.ca/~abeinges/blah/too-many-lists/book/) - [Alexis Beingessner][]
 
 ## Best Practices/Style Guides
 * [official] [WIP] [Rust Guidelines](https://github.com/rust-lang/rust/tree/master/src/doc/style)
@@ -196,6 +197,7 @@ Don't forget [Ferris](http://www.rustacean.net/) the unofficial mascot.
 <!-- Rustaceans -->
 [Aaron Turon]: https://github.com/aturon
 [Alex Crichton]: https://github.com/alexcrichton
+[Alexis Beingessner]: https://github.com/Gankro/
 [Andrew Gallant]: https://github.com/BurntSushi
 [Andrew Hobden]: https://github.com/Hoverbear
 [Ben Ashford]: https://github.com/benashford
